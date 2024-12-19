@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Temitope78
-- 👀 I’m interested in virtual assistant roles
-- 
-- 🌱 I’m currently learning virtual assistant 
+ I’m @Temitope78
+ I’m interested in virtual assistant roles
+I’m currently learning virtual assistant 
 - 💞️ I’m looking to collaborate and open to job opportunities, internship roles.
 - 📫 How to reach me ...
 - 😄 She/her
